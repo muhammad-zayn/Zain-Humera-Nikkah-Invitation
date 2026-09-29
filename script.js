@@ -19,7 +19,7 @@
   function animateCurtain() {
     stage.classList.add("active");
     invitation.classList.add("locked");
-    playCurtainSound();
+    // playCurtainSound();
 
     const duration = 3150;
 
